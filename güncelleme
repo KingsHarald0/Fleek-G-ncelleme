@@ -1,8 +1,0 @@
-## Guncellmee
-
-```console
-#Olusturdugunuz usera giris yapin.
-su useradiniz 
-#Kodu calistirdiktan sonra sorulara yes deyip enterlayin.
-curl -sS https://get.fleek.network/update | bash
-```
