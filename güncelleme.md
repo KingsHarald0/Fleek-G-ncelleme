@@ -1,4 +1,4 @@
-## Güncellmee
+## Güncelleme
 
 ```console
 
